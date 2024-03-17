@@ -11,7 +11,6 @@ class NLPApp:
         # login ka gui load karna
         self.root = Tk()
         self.root.title('NLPApp')
-        self.root.iconbitmap('resources/favicon.ico')
         self.root.geometry('350x600')
         self.root.configure(bg='#34495E')
 
